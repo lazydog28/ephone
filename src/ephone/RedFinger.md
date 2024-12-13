@@ -27,7 +27,7 @@ order: 3
 * 群控（需要专业版客户端）
 * 游戏加速
 
-![拓展服务](RedFinger/拓展服务.png)
+![拓展服务](https://s3.lazydog.site/img/ephone/RedFinger/拓展服务.png)
 
 ## 型号
 
@@ -101,11 +101,11 @@ KVIP的价格大概是VIP价格的不到两倍，官方活动的时候价格大�
 | VIP  | 8.1         | Sling Shot | 4700        | 4387  | 4556  | 5157  |
 | VIP  | 6           | Sling Shot | 763         | 769   | 760   | 760   |
 
-![红手指-VIP-10-3DMark](RedFinger/红手指-VIP-10-3DMark.png)
+![红手指-VIP-10-3DMark](https://s3.lazydog.site/img/ephone/RedFinger/红手指-VIP-10-3DMark.png)
 
-![红手指-VIP-8.1-3DMark](RedFinger/红手指-VIP-8.1-3DMark.png)
+![红手指-VIP-8.1-3DMark](https://s3.lazydog.site/img/ephone/RedFinger/红手指-VIP-8.1-3DMark.png)
 
-![红手指-VIP-6-3DMark](RedFinger/红手指-VIP-6-3DMark.png)
+![红手指-VIP-6-3DMark](https://s3.lazydog.site/img/ephone/RedFinger/红手指-VIP-6-3DMark.png)
 
 
 ### CPU
@@ -119,11 +119,11 @@ CPU测试使用的是软件`Geekbench 6`,软件版本号为：`6.3.0`
 | VIP  | 10          | 793.6666667 | 1906.666667 | 781      | 792      | 808      | 1753     | 1830     | 2137     |
 | VIP  | 8.1         | 506         | 1384.666667 | 514      | 502      | 502      | 1614     | 1324     | 1216     |
 
-![红手指-VIP-12-Geekbench(CPU)](RedFinger/红手指-VIP-12-Geekbench(CPU).png)
+![红手指-VIP-12-Geekbench(CPU)](https://s3.lazydog.site/img/ephone/RedFinger/红手指-VIP-12-Geekbench(CPU).png)
 
-![红手指-VIP-10-Geekbench(CPU)](RedFinger/红手指-VIP-10-Geekbench(CPU).png)
+![红手指-VIP-10-Geekbench(CPU)](https://s3.lazydog.site/img/ephone/RedFinger/红手指-VIP-10-Geekbench(CPU).png)
 
-![红手指-VIP-8.1-Geekbench(CPU)](RedFinger/红手指-VIP-8.1-Geekbench(CPU).png)
+![红手指-VIP-8.1-Geekbench(CPU)](https://s3.lazydog.site/img/ephone/RedFinger/红手指-VIP-8.1-Geekbench(CPU).png)
 
 
 ### GPU
@@ -135,9 +135,9 @@ GPU测试使用的是软件`Geekbench 6`,软件版本号为：`6.3.0`
 | VIP  | 12          | 2922     | 2553     | 2734     | 2736.333333 |
 | VIP  | 10          | 3409     | 3425     | 3594     | 3476        |
 
-![红手指-VIP-12-Geekbench(GPU)](RedFinger/红手指-VIP-12-Geekbench(GPU).png)
+![红手指-VIP-12-Geekbench(GPU)](https://s3.lazydog.site/img/ephone/RedFinger/红手指-VIP-12-Geekbench(GPU).png)
 
-![红手指-VIP-10-Geekbench(GPU)](RedFinger/红手指-VIP-10-Geekbench(GPU).png)
+![红手指-VIP-10-Geekbench(GPU)](https://s3.lazydog.site/img/ephone/RedFinger/红手指-VIP-10-Geekbench(GPU).png)
 
 ### 存储
 存储测试使用的是软件`Androbench`,测试结果单位都是 `MB/s`
@@ -151,10 +151,10 @@ GPU测试使用的是软件`Geekbench 6`,软件版本号为：`6.3.0`
 
 
 
-![红手指-VIP-12-AndroBench](RedFinger/红手指-VIP-12-AndroBench.png)
+![红手指-VIP-12-AndroBench](https://s3.lazydog.site/img/ephone/RedFinger/红手指-VIP-12-AndroBench.png)
 
-![红手指-VIP-10-AndroBench](RedFinger/红手指-VIP-10-AndroBench.png)
+![红手指-VIP-10-AndroBench](https://s3.lazydog.site/img/ephone/RedFinger/红手指-VIP-10-AndroBench.png)
 
-![红手指-VIP-8.1-AndroBench](RedFinger/红手指-VIP-8.1-AndroBench.png)
+![红手指-VIP-8.1-AndroBench](https://s3.lazydog.site/img/ephone/RedFinger/红手指-VIP-8.1-AndroBench.png)
 
-![红手指-VIP-6-AndroBench](RedFinger/红手指-VIP-6-AndroBench.png)
+![红手指-VIP-6-AndroBench](https://s3.lazydog.site/img/ephone/RedFinger/红手指-VIP-6-AndroBench.png)

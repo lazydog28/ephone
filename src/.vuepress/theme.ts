@@ -5,13 +5,13 @@ import sidebar from "./sidebar.js";
 
 export default hopeTheme({
     hostname: "https://www.ephone.wiki",
-    favicon: "/assets/image/cloud.webp",
+    favicon: "/assets/image/taichi.png",
     author: {
         name: "LazyDog",
         url: "https://space.bilibili.com/39524955",
     },
     iconAssets: "fontawesome-with-brands",
-    logo: "/assets/image/cloud.webp",
+    logo: "/assets/image/taichi.png",
     docsDir: "src",
     navbar,
     sidebar,

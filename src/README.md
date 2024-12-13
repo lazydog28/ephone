@@ -2,7 +2,7 @@
 home: true
 icon: home
 title: 首页
-heroImage: /assets/image/cloud.webp
+heroImage: /assets/image/taichi.png
 #bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 #bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
