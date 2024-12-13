@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://ephone.wiki/sitemap.xml
+Sitemap: https://www.ephone.wiki/sitemap.xml
