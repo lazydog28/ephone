@@ -2,12 +2,12 @@
 home: true
 icon: home
 title: 首页
-heroImage: https://www.logosc.cn/oss/icons/2022/10/18/icon_634e74e02259f.svg
+heroImage: /assets/image/cloud.webp
 #bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 #bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
-heroText: 易丰云手机测评
+heroText: 易丰测评
 tagline: 找到最适合你的云手机！
 actions:
   - text: 开始

@@ -4,14 +4,14 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-    hostname: "https://ephone.wiki",
-    favicon: "https://www.logosc.cn/oss/icons/2022/10/18/icon_634e74e02259f.svg",
+    hostname: "https://www.ephone.wiki",
+    favicon: "/assets/image/cloud.webp",
     author: {
         name: "LazyDog",
         url: "https://space.bilibili.com/39524955",
     },
     iconAssets: "fontawesome-with-brands",
-    logo: "https://www.logosc.cn/oss/icons/2022/10/18/icon_634e74e02259f.svg",
+    logo: "/assets/image/cloud.webp",
     docsDir: "src",
     navbar,
     sidebar,
@@ -73,5 +73,10 @@ export default hopeTheme({
         components: {
             components: ["Badge", "VPCard"],
         },
+        docsearch:{
+            apiKey:"",
+            indexName:"",
+            appId:"",
+        }
     },
 });

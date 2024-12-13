@@ -12,6 +12,7 @@
   },
   "devDependencies": {
     "@vuepress/bundler-vite": "2.0.0-rc.19",
+    "@vuepress/plugin-docsearch": "2.0.0-rc.65",
     "@waline/client": "^3.4.1",
     "artalk": "^2.9.1",
     "sass-embedded": "^1.82.0",
