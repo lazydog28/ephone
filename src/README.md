@@ -12,11 +12,9 @@ tagline: 找到最适合你的云手机！
 actions:
   - text: 开始
     icon: lightbulb
-    link: ./demo/
+    link: /ephone/
     type: primary
 
-  - text: Docs
-    link: ./guide/
 
 #highlights:
 #  - header: 致力于制作最全面的云手机测评数据
