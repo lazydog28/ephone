@@ -14,5 +14,5 @@ export default defineUserConfig({
             src: "https://static.cloudflareinsights.com/beacon.min.js",
             "data-cf-beacon": "{\"token\": \"c4f4d1411a27429f9d386827f4984468\"}"
         }],
-    ]
+    ],
 });

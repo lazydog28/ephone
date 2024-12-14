@@ -26,7 +26,7 @@ export default hopeTheme({
         },
     },
     metaLocales: {
-        editLink: "Edit this page on GitHub",
+        editLink: "在Github编辑此页面",
     },
     // These features are enabled for demo, only preserve features you need here
     markdown: {
@@ -77,9 +77,9 @@ export default hopeTheme({
             components: ["Badge", "VPCard"],
         },
         docsearch: {
-            apiKey: "",
-            indexName: "",
-            appId: "",
+            apiKey: "82492baf92fd7e5cb63f5653574b0cc2",
+            indexName: "ephone",
+            appId: "S69MCCQYQD",
         },
-    },
+    }
 });
