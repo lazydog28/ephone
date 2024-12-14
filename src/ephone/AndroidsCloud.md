@@ -3,7 +3,9 @@ title: 双子星云手机
 order: 5
 ---
 
-> 官网：[双子星云手机云手机](https://www.androidscloud.com/)
+> 官网：[双子星云手机](https://www.androidscloud.com/)
+>
+> 原文：[双子星云手机测评](https://www.ephone.wiki/ephone/AndroidsCloud.html)
 >
 
 ## 介绍

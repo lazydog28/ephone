@@ -3,7 +3,9 @@ title: 红手指云手机
 order: 4
 ---
 > 官网：[红手指云手机](https://www.gc.com.cn/)
->
+> 
+> 原文：[红手指云手机测评](https://www.ephone.wiki/ephone/RedFinger.html)
+> 
 
 ## 介绍
 
