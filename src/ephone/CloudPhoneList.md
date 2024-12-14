@@ -13,6 +13,7 @@ order: 2
 * [红手指云手机](https://www.gc.com.cn/)
 * [集智云手机](http://www.jzyhui.com/)
 * [鲨克云手机](https://app.shaqcloud.com/#/)
+* [双子星云手机](https://www.androidscloud.com/)
 * [淘气猫云手机](http://shandianyun.vip/)
 * [桃心云手机](https://www.taoxyun.com/)
 * [星界云手机](https://cp.chinac.com/)

@@ -8,7 +8,7 @@ heroImage: /assets/image/taichi.png
 bgImageStyle:
   background-attachment: fixed
 heroText: 易丰测评
-tagline: 找到最适合你的云手机！
+tagline: 帮你找到最适合的云手机！
 actions:
   - text: 开始
     icon: lightbulb

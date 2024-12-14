@@ -7,9 +7,12 @@ export default hopeTheme({
     hostname: "https://www.ephone.wiki",
     favicon: "/assets/image/taichi.png",
     author: {
-        name: "LazyDog",
+        name: "SuperLazyDog",
         url: "https://space.bilibili.com/39524955",
     },
+    editLink: true,
+    repo: "https://github.com/lazydog28/ephone",
+    docsRepo: "https://github.com/lazydog28/ephone",
     iconAssets: "fontawesome-with-brands",
     logo: "/assets/image/taichi.png",
     docsDir: "src",
@@ -63,9 +66,9 @@ export default hopeTheme({
         comment: {
             provider: "Artalk",
             server: "https://artalk.lazydog.site/",
-            gravatar:{
-                mirror:"https://weavatar.com/avatar/",
-                params:"sha256=1&d=mp&s=240",
+            gravatar: {
+                mirror: "https://weavatar.com/avatar/",
+                params: "sha256=1&d=mp&s=240",
             }
             // provider:"Waline",
             // serverURL:"https://waline.lazydog.site/"
@@ -73,10 +76,10 @@ export default hopeTheme({
         components: {
             components: ["Badge", "VPCard"],
         },
-        docsearch:{
-            apiKey:"",
-            indexName:"",
-            appId:"",
-        }
+        docsearch: {
+            apiKey: "",
+            indexName: "",
+            appId: "",
+        },
     },
 });
