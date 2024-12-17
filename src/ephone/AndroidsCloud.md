@@ -96,7 +96,7 @@ order: 5
 
 ### 安兔兔
 
-> 测试软件：[安兔兔](https://s3.lazydog.site/file/antutu.apk)
+> 测试软件：[安兔兔V10](https://s3.lazydog.site/file/antutu.apk)
 
 | 型号 | Android版本 | 平均总分        | 平均CPU得分     | 平均GPU得分     | 平均内存得分      | 平均数据处理 | 总分1    | 总分2    | 总分3    | CPU得分1 | CPU得分2 | CPU得分3 | GPU得分1 | GPU得分2 | GPU得分3 | 内存得分1  | 内存得分2  | 内存得分3  | 数据处理得分1 | 数据处理得分2 | 数据处理得分3 |
 |----|-----------|-------------|-------------|-------------|-------------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|---------|---------|---------|
@@ -107,9 +107,22 @@ order: 5
 
 ![双子星-星耀-7-AnTuTu](https://s3.lazydog.site/img/ephone/AndroidsCloud/双子星-星耀-7-AnTuTu.png)
 
-### CPU
+### 3DMark
 
-> 测试软件：[Geekbench 6_6.3.0_APKPure.apk](https://s3.lazydog.site/file/Geekbench%206_6.3.0_APKPure.apk)
+> 测试软件：[3DMark-v2-5-4969](https://s3.lazydog.site/file/3DMark-v2-5-4969.apk) 场景为`Sling Shot`。
+>
+> 星动 10 无法正常运行 3DMark，因此没有该数据
+>
+
+| 型号 | Android版本 | 场景         | 平均得分 | 得分1 | 得分2 | 得分3 |
+|----|-----------|------------|------|-----|-----|-----|
+| 星耀 | 7         | Sling Shot | 761  | 773 | 760 | 750 |
+
+![双子星-星耀-7-3DMark-SlingShot](https://s3.lazydog.site/img/ephone/AndroidsCloud/双子星-星耀-7-3DMark-SlingShot.png)
+
+### Geekbench 6 CPU
+
+> 测试软件：[Geekbench 6_6.3.0](https://s3.lazydog.site/file/Geekbench%206_6.3.0_APKPure.apk)
 
 | 型号 | Android版本 | 平均CPU单核     | 平均CPU多核     | CPU单核1 | CPU单核2 | CPU单核3 | CPU多核1 | CPU多核2 | CPU多核3 |
 |----|-----------|-------------|-------------|--------|--------|--------|--------|--------|--------|
@@ -120,9 +133,9 @@ order: 5
 
 ![双子星-星耀-7-Geekbench(CPU).png](https://s3.lazydog.site/img/ephone/AndroidsCloud/双子星-星耀-7-Geekbench(CPU).png)
 
-### GPU
+### Geekbench 6 GPU
 
-> 测试软件：[Geekbench 6_6.3.0_APKPure.apk](https://s3.lazydog.site/file/Geekbench%206_6.3.0_APKPure.apk)
+> 测试软件：[Geekbench 6_6.3.0](https://s3.lazydog.site/file/Geekbench%206_6.3.0_APKPure.apk)
 >
 
 | 型号 | Android版本 | 平均GPU评分     | GPU评分1 | GPU评分2 | GPU评分3 |
@@ -134,9 +147,12 @@ order: 5
 
 ![双子星-星耀-7-Geekbench(GPU).png](https://s3.lazydog.site/img/ephone/AndroidsCloud/双子星-星耀-7-Geekbench(GPU).png)
 
-### 内存
+### Androbench
 
 > 测试软件：[Androbench.apk](https://s3.lazydog.site/file/Androbench.apk)
+>
+> 测试结果单位都是 `MB/s`
+>
 
 | 型号 | Android版本 | 平均顺序读       | 平均顺序写       | 平均随机读       | 平均随机写       | 顺序读1    | 顺序读2   | 顺序读3    | 顺序写1   | 顺序写2   | 顺序写3   | 随机读1   | 随机读2   | 随机读3   | 随机写1  | 随机写2  | 随机写3  |
 |----|-----------|-------------|-------------|-------------|-------------|---------|--------|---------|--------|--------|--------|--------|--------|--------|-------|-------|-------|
