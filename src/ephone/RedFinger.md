@@ -105,6 +105,9 @@ KVIP的价格大概是VIP价格的不到两倍，官方活动的时候价格大�
 
 ## 性能
 
+> [测试数据汇总表](https://docs.qq.com/sheet/DUlNsaFdIRXR6anRJ?tab=3k3hu7)
+>
+
 ### 概述
 
 本次测试的是VIP型号的云手机，不同系统版本，随机三台设备的得分情况。
