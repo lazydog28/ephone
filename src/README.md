@@ -14,16 +14,18 @@ actions:
     icon: lightbulb
     link: /ephone/
     type: primary
+  - text: 测试数据汇总表
+    link: https://docs.qq.com/sheet/DUlNsaFdIRXR6anRJ?tab=3k3hu7
 
-
-#highlights:
-#  - header: 致力于制作最全面的云手机测评数据
+highlights:
+  - header: 致力于制作最全面的云手机测评数据
 #    image: /assets/image/box.svg
-#    bgImage: https://theme-hope-assets.vuejs.press/bg/3-light.svg
-#    bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
-#    highlights:
-#      - title: 最全面
-#      - title: Run <code>pnpm create vuepress-theme-hope add .</code> in your project root to create a new project with this theme.
+    bgImage: https://theme-hope-assets.vuejs.press/bg/3-light.svg
+    bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
+    highlights:
+        - title: 测试数据汇总表
+          link: https://docs.qq.com/sheet/DUlNsaFdIRXR6anRJ?tab=3k3hu7
+#        - link: [测试数据汇总表](https://docs.qq.com/sheet/DUlNsaFdIRXR6anRJ?tab=3k3hu7)
 
 
 copyright: false
