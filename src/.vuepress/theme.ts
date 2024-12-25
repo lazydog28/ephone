@@ -18,7 +18,7 @@ export default hopeTheme({
     docsDir: "src",
     navbar,
     sidebar,
-    footer: "找到最适合你的云手机",
+    footer: '<a href="https://beian.miit.gov.cn/">苏ICP备2021046270号-5</a>',
     displayFooter: true,
     encrypt: {
         config: {
