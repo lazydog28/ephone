@@ -29,5 +29,5 @@ highlights:
 
 
 copyright: false
-footer: Theme by <a href="https://theme-hope.vuejs.press/" target="_blank">VuePress Theme Hope</a> | MIT Licensed, Copyright © 2024
+footer: <a href="https://beian.miit.gov.cn/">苏ICP备2021046270号-5</a> | MIT Licensed, Copyright © 2024
 ---
